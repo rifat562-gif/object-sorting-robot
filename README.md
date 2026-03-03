@@ -30,10 +30,10 @@ python3 src/main.py
 Press **q** to quit.
 
 ## Results
-![Robot Assembly](assets/photos/robot_assembly.png)
-![Robotic Arm](assets/photos/robotic_arm.png)
-![Square Detection](assets/results/detecting_square.png)
-![Rectangle Detection](assets/results/detecting_rectangle.png)
+<img src="assets/photos/robot_assembly.png" width="700">
+<img src="assets/photos/robotic_arm.png" width="700">
+<img src="assets/results/detecting_square.png" width="700">
+<img src="assets/results/detecting_rectangle.png" width="700">
 
 ## Wiring
 See `wiring/pinout.md`.
